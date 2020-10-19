@@ -1,6 +1,6 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
+date: "2020-10-18"
 title: About
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+My name is Marley and this is my personal site where I try to commit to learning in public, and blog about my interests. I live in Portland, OR and work as an Economist for a local consulting firm. I am primarily interested in the intersection of technolgoy, data science, and the built environment. I also really like movies and I am trying to get better at explaining why. 
