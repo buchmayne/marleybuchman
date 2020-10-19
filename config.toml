@@ -20,6 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://twitter.com/buchmayne"
 [[menu.main]]
     name = "Resume"
+    url = "/resume/"
 
 [params]
     description = "A website built through Hugo and blogdown."
