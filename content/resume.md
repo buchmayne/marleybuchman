@@ -56,7 +56,7 @@ Researched, developed, and recommend alogrithm to optimize ad revenue for startu
 
 * Proposed algorithm increased ad revenue 0.4% when backtested 
 
-**Senior Economic Associate // REMI / Amherst, MA // November 2015 - May 2017**
+**Senior Economic Associate // REMI // Amherst, MA // November 2015 - May 2017**
 
 Business development and customer success role for company selling custom regional economic simulation software
 
