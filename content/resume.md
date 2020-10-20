@@ -52,7 +52,7 @@ Organize monthly meetups for programmers and data scientists interested in the R
 
 Researched, developed, and recommend alogrithm to optimize ad revenue for startup helping policyholders manage their auto insurance
 
-* Leverage Looker to identify insights and trends related to CTR
+* Leveraged Looker to identify insights and trends related to CTR
 
 * Proposed algorithm increased ad revenue 0.4% when backtested 
 
