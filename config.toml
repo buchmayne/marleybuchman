@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "TBD"
+title = "Marley Buchman's Personal Site"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -9,21 +9,31 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
 [[menu.main]]
     name = "About"
     url = "/about/"
+    weight = 2
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/buchmayne"
+    weight = 4
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/buchmayne"
+    weight = 5
 [[menu.main]]
     name = "Resume"
     url = "/resume/"
+    weight = 3
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Marley Buchman's personal website"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
