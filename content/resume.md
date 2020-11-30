@@ -48,7 +48,7 @@ Economic consultant conducting applied research to provide insight into question
 
 Organize monthly meetups for programmers and data scientists interested in the R programming language in Portland
 
-**Product Analyst Consultant // Tellis // San Francisco, CA // October 2020**
+**Product Analyst Consultant // Trellis // San Francisco, CA // October 2020**
 
 Researched, developed, and recommend alogrithm to optimize ad revenue for startup helping policyholders manage their auto insurance
 
@@ -87,7 +87,7 @@ Talks, Presentations, & Open Source Work
 Technical Experience
 --------------------
 
-:   **R**, **Python**, **SQL**, **GIS**, **pandas**, **geopandas**, **Flask**, **sklearn**, **PySAL**, **Shiny**, **tidyverse** 
+:   **R**, **Python**, **SQL**, **GIS**, **pandas**, **numpy**, **geopandas**, **Flask**, **sklearn**, **PySAL**, **Shiny**, **tidyverse**, **AWS Lambda**, **AWS RDS**
 
 
 Projects
@@ -96,8 +96,6 @@ Projects
 * ADYou:
 
 An online platform to improve Portland homeowners' experience in developing accessory dwelling units
-
-https://github.com/buchmayne/adyou
 
 ----
 
