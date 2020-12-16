@@ -2,7 +2,6 @@ baseurl = "https://marleybuchman.com/"
 languageCode = "en-us"
 title = "Marley Buchman"
 theme = "hugo-lithium"
-copyright = "&copy; Marley Buchamn {year}"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
