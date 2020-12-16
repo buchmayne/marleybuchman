@@ -1,4 +1,4 @@
-baseurl = "https://marleybuchman.com"
+baseurl = "https://marleybuchman.com/"
 languageCode = "en-us"
 title = "Marley Buchman"
 theme = "hugo-lithium"
