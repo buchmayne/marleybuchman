@@ -5,16 +5,6 @@
     <link>https://marleybuchman.com/categories/</link>
     <description>Recent content in Categories on Marley Buchman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="https://marleybuchman.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>R</title>
-      <link>https://marleybuchman.com/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://marleybuchman.com/categories/r/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://marleybuchman.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

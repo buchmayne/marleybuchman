@@ -8,68 +8,20 @@
   </url>
   
   <url>
-    <loc>https://marleybuchman.com/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://marleybuchman.com/post/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://marleybuchman.com/2020/10/18/test/</loc>
-    <lastmod>2020-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://marleybuchman.com/2016/12/30/a-plain-markdown-post/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+    <loc>https://marleybuchman.com/resume/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://marleybuchman.com/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://marleybuchman.com/2015/07/23/hello-r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://marleybuchman.com/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://marleybuchman.com/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://marleybuchman.com/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://marleybuchman.com/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>https://marleybuchman.com/</loc>
   </url>
   
   <url>
     <loc>https://marleybuchman.com/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://marleybuchman.com/2015/01/01/lorem-ipsum/</loc>
-    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://marleybuchman.com/resume/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
