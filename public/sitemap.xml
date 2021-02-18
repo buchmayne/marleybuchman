@@ -8,16 +8,17 @@
   </url>
   
   <url>
+    <loc>https://marleybuchman.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://marleybuchman.com/resume/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://marleybuchman.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://marleybuchman.com/</loc>
   </url>
   
   <url>
