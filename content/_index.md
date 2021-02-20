@@ -2,7 +2,7 @@
 ============
 
 
-<img src="/img/avatar.jpeg" alt="profile pic" title="avatar profile pic" width="400" height="600">
+<center><img src="/img/avatar.jpeg" alt="profile pic" title="avatar profile pic" width="550" height="600"></center>
 
 ----
 
