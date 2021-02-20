@@ -1,7 +1,8 @@
-Marley Buchman
+<center>Marley Buchman</center>
 ============
 
-![](/img/avatar.jpeg)
+
+<img src="/img/avatar.jpeg" alt="profile pic" title="avatar profile pic" width="400" height="600">
 
 ----
 
