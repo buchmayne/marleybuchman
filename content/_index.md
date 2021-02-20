@@ -1,6 +1,8 @@
 Marley Buchman
 ============
 
+![](/img/avatar.jpeg)
+
 ----
 
 >   Consultant providing data science services and applied economic research for public and private sector clients. Managing projects, developing methodologies, and delivering quantitative analyses improving client's decision making and processes. 
