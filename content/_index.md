@@ -2,8 +2,7 @@
 ============
 
 
-<center>![](/img/avatar.jpeg)</center>
-
+<center><img class="img-circle" src="/img/avatar.jpeg" /> </center>
 ----
 
 >   Consultant providing data science services and applied economic research for public and private sector clients. Managing projects, developing methodologies, and delivering quantitative analyses improving client's decision making and processes. 

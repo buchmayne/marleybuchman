@@ -319,3 +319,7 @@ code {
     box-shadow: none;
   }
 }
+
+.img-circle {
+  border-radius: 50%;
+}
