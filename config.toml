@@ -11,18 +11,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 
-
-
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/buchmayne"
-    weight = 1
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/buchmayne"
-    weight = 2
-
-
 [params]
     description = "Marley Buchman's personal website"
 
