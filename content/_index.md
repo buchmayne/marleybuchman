@@ -86,18 +86,15 @@ Talks, Presentations, & Open Source Work
 
 * R in Industry Night, [Portland R User Group](https://www.meetup.com/portland-r-user-group/events/248703297/)
 
+* HUD-MFI-API [API to access HUD Historical Income Limits](hud-mfi-api.herokuapp.com/)
+
+
 Technical Experience
 --------------------
 
 :   **R**, **Python**, **SQL**, **GIS**, **pandas**, **numpy**, **geopandas**, **Flask**, **sklearn**, **PySAL**, **Shiny**, **tidyverse**, **AWS Lambda**, **AWS RDS**
 
 
-Projects
-----------------------------------------
-
-* ADYou:
-
-An online platform to improve Portland homeowners' experience in developing accessory dwelling units
 
 ----
 
