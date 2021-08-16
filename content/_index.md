@@ -88,7 +88,7 @@ Talks, Presentations, & Open Source Work
 
 * R in Industry Night, [Portland R User Group](https://www.meetup.com/portland-r-user-group/events/248703297/)
 
-* [HUD-MFI-API](hud-mfi-api.herokuapp.com/), API to access HUD Historical Income Limits
+* [HUD-MFI-API](https://hud-mfi-api.herokuapp.com/), API to access HUD Historical Income Limits
 
 
 Technical Experience
