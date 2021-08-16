@@ -78,6 +78,8 @@ Business development and customer success role for company selling custom region
 Talks, Presentations, & Open Source Work
 --------------------
 
+* Build a Shiny app from scratch!, [PyData PDX](https://www.meetup.com/PyData-PDX/events/279867395/)
+
 * The Shape of a City: Applications in Urban Data Science in Housing and Land Use, [PyData PDX](https://www.meetup.com/PyData-PDX/events/267324998/)
 
 * Working with census data and using the tidycensus package, [Portland R User Group](https://www.meetup.com/portland-r-user-group/events/271649940/)
@@ -86,13 +88,13 @@ Talks, Presentations, & Open Source Work
 
 * R in Industry Night, [Portland R User Group](https://www.meetup.com/portland-r-user-group/events/248703297/)
 
-* HUD-MFI-API [API to access HUD Historical Income Limits](hud-mfi-api.herokuapp.com/)
+* [HUD-MFI-API](hud-mfi-api.herokuapp.com/), API to access HUD Historical Income Limits
 
 
 Technical Experience
 --------------------
 
-:   **R**, **Python**, **SQL**, **GIS**, **pandas**, **numpy**, **geopandas**, **Flask**, **sklearn**, **PySAL**, **Shiny**, **tidyverse**, **AWS Lambda**, **AWS RDS**
+:   **R**, **Python**, **SQL**, **Postgres**, **GIS**, **pandas**, **numpy**, **geopandas**, **Flask**, **sklearn**, **PySAL**, **Shiny**, **tidyverse**, **AWS Lambda**, **AWS RDS**, **docker**
 
 
 
