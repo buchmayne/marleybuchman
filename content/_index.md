@@ -53,7 +53,7 @@ Developed model to optimize expected ad revenue per search for a FinTech startup
 * Performed exploratory data analysis to identify trends and insights from existing CTR data in Looker
 
 
-**Senior Economic Associate // REMI // Amherst, MA // November 2015 - May 2017**
+**Senior Economic Associate // REMI // Amherst, MA // November 2015 to May 2017**
 
 Provided R&D, training, and consulting for an economic modeling software company.
 
