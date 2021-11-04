@@ -9,48 +9,57 @@
 
 ----
 
+
 Experience
 ----------
 
-**Economist // ECONorthwest // Portland, OR // June 2017 - Present:**
+**Economist // ECONorthwest // Portland, OR // June 2017 to Present**
 
-Economic consultant conducting applied research to provide insight into questions of public policy  
+Provided data science consulting services and applied economic research for public and private sector clients.  
 
-* Statistical programming, data analysis, and modeling - with a focus on applied research in urban economics
+* Developed a Random Forest model using scikit-learn to predict rent per sqft for multifamily housing in Portland, OR with a RMSE of $0.18/sqft on validation dataset
 
-* Developed machine learning models to predict new construction rents in Python allowing our firm to perform financial feasibility analysis on new types of housing prototypes
+* Saved hundreds of hours of analysts’ time by developing three R packages to automate routine data gathering and analysis tasks within the firm
 
-* Saved hundreds of hours of analysts’ time by developing multiple R packages to automate routine data gathering and analysis tasks within the firm
+* Created a bespoke spatial interpolation algorithm in Python for custom land use modeling software (Plan4Dev)
 
-* Created a model to estimate the build-able capacity of land around high-capacity transit stations nationally using satellite imagery in R to support the development of federal transit funding legislation
+* Estimated the effects of pollution on property values with a spatial econometric model in R that was used as evidence in a litigation case
 
-* Translated a legacy Excel education attainment forecast model into Python and built an API with Flask to integrate the forecast with client’s website
+* Used R and Shiny to develop and deploy an analytics dashboard for a commercial real estate developer to inform real estate acquisition decisions
 
-* Implemented Random forest model to predict household travel behavior based on neighborhood characteristics to analyze the differences in proposed housing policies
+* Was the primary quantitative researcher on award-winning research on national housing underproduction that was featured in many journalistic outlets such as the Wall Street Journal and CityLab
 
-* Developed a resource demand model for the King County Water Treatment Division and integrated the model into their Portfolio Analysis software
+**Data Science Consultant // Trucksmarter // Remote // June 2021 to Present**
 
-* Developed a Shiny analytics dashboard for commercial real estate developers to inform their land acquisition strategy
+Developed and deployed proof of concept machine learning model to predict price of loads for a trucking logistics startup.
 
-**Organizer // Portland R User Group // Portland, OR // March, 2019 - Present**
+* Developed a XGBoost model in Python to predict the price of a trucking load based on historic trucking data
 
-Organize monthly meetups for programmers and data scientists interested in the R programming language in Portland
+* Created data pipeline to process raw JSON data and write to Postgres database
 
-**Product Analyst Consultant // Trellis // San Francisco, CA // October 2020**
+* Created an API to serve the model using FastAPI and dockerized the API using Docker
 
-Researched, developed, and recommend alogrithm to optimize ad revenue for startup helping policyholders manage their auto insurance
+* Deployed the dockerized API on AWS (EC2) using AWS ECR to host the container
 
-* Leveraged Looker to identify insights and trends related to CTR
 
-* Proposed algorithm increased ad revenue 0.4% when backtested 
+**Product Analyst Consultant // Trellis Technologies // Remote // October 2020**
+
+Developed model to optimize expected ad revenue per search for a FinTech startup creating a car insurance marketplace app.
+
+* Used R to develop a linear regression model to estimate CTR with a RMSE of 1.6%
+
+* Back tested the model and estimated that the model would increase expected ad revenue by 0.41% or $113/day
+
+* Performed exploratory data analysis to identify trends and insights from existing CTR data in Looker
+
 
 **Senior Economic Associate // REMI // Amherst, MA // November 2015 - May 2017**
 
-Business development and customer success role for company selling custom regional economic simulation software
+Provided R&D, training, and consulting for an economic modeling software company.
 
 * Advised and consulted on studies such as the economic impact analysis of high-speed rail project in California, Measure M: LA County’s T.I.P., Alaska B.R.A.C. proposal, Washington tax incentive programs, etc.
 
-* Assisted in the development of dynamic economic simulation software
+* Assisted in the research and development of dynamic economic simulation software
 
 * Modeled economic and fiscal impacts of changes in transportation, taxation, energy, and environmental policies for clients
 
@@ -59,6 +68,7 @@ Business development and customer success role for company selling custom region
 * Advocated for the use of economic models and data driven analysis to state legislators, foreign govt. officials, state and local govt. directors, academics, business groups, etc.
 
 * Business development, software training and technical support
+
 
 Education
 ---------
@@ -78,6 +88,10 @@ Education
 Talks, Presentations, & Open Source Work
 --------------------
 
+**Organizer // Portland R User Group // Portland, OR // March, 2019 to Present**
+
+Organized monthly meetups for R programmers and Data Scientists in Portland Oregon.
+
 * Build a Shiny app from scratch!, [PyData PDX](https://www.meetup.com/PyData-PDX/events/279867395/)
 
 * The Shape of a City: Applications in Urban Data Science in Housing and Land Use, [PyData PDX](https://www.meetup.com/PyData-PDX/events/267324998/)
@@ -88,8 +102,8 @@ Talks, Presentations, & Open Source Work
 
 * R in Industry Night, [Portland R User Group](https://www.meetup.com/portland-r-user-group/events/248703297/)
 
-* [HUD-MFI-API](https://hud-mfi-api.herokuapp.com/), API to access HUD Historical Income Limits
-
+**[HUD-MFI-API](https://hud-mfi-api.herokuapp.com/)**: 
+Developed and deployed an open-source API using Python, Postgres, and Flask to access historical income limits from the U.S. Department of Housing and Urban Development website for affordable housing analysis.
 
 Technical Experience
 --------------------
