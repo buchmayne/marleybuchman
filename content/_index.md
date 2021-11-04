@@ -103,12 +103,13 @@ Organized monthly meetups for R programmers and Data Scientists in Portland Oreg
 * R in Industry Night, [Portland R User Group](https://www.meetup.com/portland-r-user-group/events/248703297/)
 
 **[HUD-MFI-API](https://hud-mfi-api.herokuapp.com/)**: 
+
 Developed and deployed an open-source API using Python, Postgres, and Flask to access historical income limits from the U.S. Department of Housing and Urban Development website for affordable housing analysis.
 
-Technical Experience
+Skills
 --------------------
 
-:   **R**, **Python**, **SQL**, **Postgres**, **GIS**, **pandas**, **numpy**, **geopandas**, **Flask**, **sklearn**, **PySAL**, **Shiny**, **tidyverse**, **AWS Lambda**, **AWS RDS**, **docker**
+:   **R**, **Python**, **Bash**, **SQL**, **Postgres**, **GIS**, **pandas**, **numpy**, **sklearn**, **Flask**, **FastAPI**, **Shiny**, **tidyverse**, **AWS Lambda**, **AWS RDS**, **AWS EC2**, **docker**, Currently learning **Airflow**
 
 
 
