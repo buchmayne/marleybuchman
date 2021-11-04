@@ -9,20 +9,6 @@
 
 ----
 
-Education
----------
-
-
-2013-2015
-:   **Msc, Economics**; Uppsala University, Uppsala, Sweden
-
-    *Thesis title: The Bakken Transformation: The Evolution of Criminal Behavior in the Wake of a Resource Boom*
-    
-    Analyzed how criminal behavior changed in response to a large, exogenous positive shock to the regional labor market
-
-2009-2012
-:   **BSc, Economics, Political Science**; University of Oregon, Eugene, OR
-
 Experience
 ----------
 
@@ -73,6 +59,20 @@ Business development and customer success role for company selling custom region
 * Advocated for the use of economic models and data driven analysis to state legislators, foreign govt. officials, state and local govt. directors, academics, business groups, etc.
 
 * Business development, software training and technical support
+
+Education
+---------
+
+
+2013-2015
+:   **Msc, Economics**; Uppsala University, Uppsala, Sweden
+
+    *Thesis title: The Bakken Transformation: The Evolution of Criminal Behavior in the Wake of a Resource Boom*
+    
+    Analyzed how criminal behavior changed in response to a large, exogenous positive shock to the regional labor market
+
+2009-2012
+:   **BSc, Economics, Political Science**; University of Oregon, Eugene, OR
 
 
 Talks, Presentations, & Open Source Work
