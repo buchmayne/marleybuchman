@@ -17,15 +17,15 @@ Experience
 
 Provided data science consulting services and applied economic research for public and private sector clients.  
 
-* Developed a Random Forest model using scikit-learn to predict rent per sqft for multifamily housing in Portland, OR with a RMSE of $0.18/sqft on validation dataset
+* Developed a Random Forest model using scikit-learn to predict multifamily rent in Portland, OR in order to calibrate land use policy
 
-* Saved hundreds of hours of analysts’ time by developing three R packages to automate routine data gathering and analysis tasks within the firm
+* Developed three R packages that saved analysts’ ~100 hours of time by automating an annual report, and making it easier to work with CoStar real estate data
 
 * Created a bespoke spatial interpolation algorithm in Python for custom land use modeling software (Plan4Dev)
 
 * Estimated the effects of pollution on property values with a spatial econometric model in R that was used as evidence in a litigation case
 
-* Used R and Shiny to develop and deploy an analytics dashboard for a commercial real estate developer to inform real estate acquisition decisions
+* Built a Shiny analytics dashboard for a commercial real estate developer that was used to inform real estate acquisition decisions
 
 * Was the primary quantitative researcher on award-winning research on national housing underproduction that was featured in many journalistic outlets such as the Wall Street Journal and CityLab
 
@@ -46,7 +46,7 @@ Developed and deployed proof of concept machine learning model to predict price 
 
 Developed model to optimize expected ad revenue per search for a FinTech startup creating a car insurance marketplace app.
 
-* Used R to develop a linear regression model to estimate CTR with a RMSE of 1.6%
+* Developed a linear regression model to estimate CTR with a RMSE of 1.6%
 
 * Back tested the model and estimated that the model would increase expected ad revenue by 0.41% or $113/day
 
