@@ -5,7 +5,7 @@
 <center><img class="img-circle" src="/img/avatar.jpeg" /> </center>
 ----
 
->   Consultant providing data science services and applied economic research for public and private sector clients. Managing projects, developing methodologies, and delivering quantitative analyses improving client's decision making and processes. 
+>    
 
 ----
 
@@ -13,9 +13,20 @@
 Experience
 ----------
 
-**Economist // ECONorthwest // Portland, OR // June 2017 to Present**
+**Data Scientist // Fundrise // Remote // May 2022 to December 2022**
+Fundrise is America’s largest direct-to-investor real estate investment platform, managing more than $1 billion of equity on behalf of more than 371,000+ individual investors.
 
-Provided data science consulting services and applied economic research for public and private sector clients.  
+* Developed machine learning model to predict user LTV, deployed model to production
+
+* Defined methodology for model monitoring  in production to detect data drift, and trigger model retraining
+
+* Built forecasting model to predict future fundraising, and estimate causal impact of select macroeconomic indicators on fundraising
+
+* Developed NLP model to classify user microfeedback by sentiment
+
+**Economist // ECONorthwest // Portland, OR // June 2017 to May 2022**
+
+Providing data science services, public policy analysis, and applied economic research for public and private sector clients such as Lyft, Intel, Facebook, Microsoft, and The Gates Foundation.  
 
 * Developed a Random Forest model using scikit-learn to predict multifamily rent in Portland, OR in order to calibrate land use policy
 
@@ -31,15 +42,13 @@ Provided data science consulting services and applied economic research for publ
 
 **Data Science Consultant // Trucksmarter // Remote // June 2021 to Present**
 
-Developed and deployed proof of concept machine learning model to predict price of loads for a trucking logistics startup.
+Trucksmarter is an A16Z-backed truck marketplace product with visibility into 3m truckloads per day – with no Data Engineering infra, and no DS team.
 
-* Developed a XGBoost model in Python to predict the price of a trucking load based on historic trucking data
+* Developed a XGBoost machine learning model in Python to predict the price of trucking loads based on historic trucking data with a RMSE of $93
 
 * Created data pipeline to process raw JSON data and write to Postgres database
 
-* Created an API to serve the model using FastAPI and dockerized the API using Docker
-
-* Deployed the dockerized API on AWS (EC2) using AWS ECR to host the container
+* Built an API to serve the model using FastAPI and dockerized the API using Docker, then deployed the dockerized API on AWS EC2 using AWS ECR to host the container
 
 
 **Product Analyst Consultant // Trellis Technologies // Remote // October 2020**
@@ -55,7 +64,9 @@ Developed model to optimize expected ad revenue per search for a FinTech startup
 
 **Senior Economic Associate // REMI // Amherst, MA // November 2015 to May 2017**
 
-Provided R&D, training, and consulting for an economic modeling software company.
+REMI is a software company and the leading provider of state, local, and national dynamic macroeconomic policy simulation models.
+
+* Provided R&D, training, and consulting for an economic modeling software company.
 
 * Advised and consulted on studies such as the economic impact analysis of high-speed rail project in California, Measure M: LA County’s T.I.P., Alaska B.R.A.C. proposal, Washington tax incentive programs, etc.
 
@@ -109,7 +120,7 @@ Developed and deployed an open-source API using Python, Postgres, and Flask to a
 Skills
 --------------------
 
-:   **R**, **Python**, **Bash**, **SQL**, **Postgres**, **GIS**, **pandas**, **numpy**, **sklearn**, **Flask**, **FastAPI**, **Shiny**, **tidyverse**, **AWS Lambda**, **AWS RDS**, **AWS EC2**, **docker**, Currently learning **Airflow**
+:   **R**, **Python**, **Bash**, **SQL**, **Postgres**, **GIS**, **pandas**, **numpy**, **sklearn**, **Flask**, **FastAPI**, **Shiny**, **tidyverse**, **AWS Lambda**, **AWS RDS**, **AWS EC2**, **docker**, **Airflow**, **dbt**
 
 
 
