@@ -14,6 +14,7 @@ Experience
 ----------
 
 **Data Scientist // Fundrise // Remote // May 2022 to December 2022**
+
 Fundrise is America’s largest direct-to-investor real estate investment platform, managing more than $1 billion of equity on behalf of more than 371,000+ individual investors.
 
 * Developed machine learning model to predict user LTV, deployed model to production
